@@ -1,5 +1,5 @@
 # USAGE
-# python keras_mnist.py --output output/keras_mnist.png
+# python keras_mnist.py
 
 # import the necessary packages
 from sklearn.preprocessing import LabelBinarizer

@@ -1,5 +1,5 @@
 # USAGE
-# python keras_cifar10.py --output output/keras_cifar10.png
+# python keras_cifar10.py
 
 # import the necessary packages
 from sklearn.preprocessing import LabelBinarizer
