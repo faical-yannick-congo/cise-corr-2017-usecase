@@ -106,7 +106,8 @@ To do so, run:
 
 At this point again you have to wait the computation to finish.
 
-Note: Make sure you have an allowance of about 20Gb. 
+## Note
+Make sure you have an allowance of about 20Gb. 
 This use case execution requires this amount of storage.
 The default account is provided with 1Gb.
 To validate the use case, first focus on running the simple examples.
@@ -116,9 +117,12 @@ It will not handle the Keras library based examples.
 In any case email the instance Admin at yannick.congo@gmail.com to request a storage
 increase for [https://corr-root.org](https://corr-root.org).
 
-Caution: This instance is experimental, please inquire about your actual use cases to
+## Caution
+This instance is experimental, please inquire about your actual use cases to
 request either for extra storage or to see if it fits within the scope of the instance.
 There no official financial support for this instance, the admin is paying for the infrastructure.
 A donation button has been provided for contributions to help pay these costs.
 
-
+## Credit
+All these codes are taken from Dr. Adrian Rosebrock book on Deep Learning For Computer Vision with Python.
+For further interest and understanding, we recommand buying a copy of this trending book on Artificial Neural Networks. 
