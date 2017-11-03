@@ -1,6 +1,7 @@
 # cise-corr-2017-usecase
 This repository contains all the material for the use case of CiSE paper about CoRR.
 For each subfolder you will have to do the following commands for each Tool.
+All this was done with python 3.5.
 
 ## Config from CoRR
 First create an account in CoRR.
