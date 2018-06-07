@@ -56,7 +56,7 @@ For corr-cde, do
 
 To validate the installaton, run:
 
-	corr-cde
+	corrcde
 
 In case of an issue it is possible the cde command is not built, run:
 
@@ -103,7 +103,7 @@ At this point you have to also wait for the computation to finish.
 It is as easy as Reprozip to use CDE.
 To do so, run:
 	
-	corr-cde --config path_to/corr-configs/cde/config.json --name Project_Name --cmd="python code_example.py"
+	corrcde --config path_to/corr-configs/cde/config.json --name Project_Name --cmd="python code_example.py"
 
 At this point again you have to wait the computation to finish.
 
